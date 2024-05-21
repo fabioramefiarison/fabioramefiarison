@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fabio ramefiarison</h1>
-<h3 align="center">A passionate MERNSTACK developer from Madame</h3>
+<h3 align="center">A passionate MERNSTACK developer from Madagascar</h3>
 
 - 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **fabioramefiarison@gmail.com**
 
-- ⚡ Fun fact **I am a funny**
-
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **I am a funny
 <p align="left">
 </p>
 
