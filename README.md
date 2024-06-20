@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio ramefiarison</h1>
 <h3 align="center">A passionate <span color="red">MERNSTACK </span>developer from Madagascar</h3>
 
-- 🌱 I’m currently learning **.NET and PHP**
+- 🌱 I’m currently learning **C# and PHP**
 
 - 📫 How to reach me **fabioramefiarison@gmail.com**
 
