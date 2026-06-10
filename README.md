@@ -10,8 +10,6 @@ Je conçois des solutions numériques modernes pour le web, le mobile, le deskto
 
 Je m’adapte aux technologies, à l’architecture et aux contraintes de chaque entreprise afin de participer efficacement à tout type de projet informatique.
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=850&lines=Développement+Web+Fullstack;Applications+mobiles+et+desktop;API+REST+et+bases+de+données;Intelligence+artificielle+et+automatisation;Adaptation+aux+technologies+de+l'entreprise" alt="Présentation animée" />
-
 <br />
 
 <a href="mailto:fabioramefiarison@gmail.com">
